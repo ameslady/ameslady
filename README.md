@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey, I'm Amy a Full Stack Developer from Vancouver Island 🇨🇦
 
 <!--
 **ameslady/ameslady** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
