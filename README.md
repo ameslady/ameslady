@@ -1,6 +1,6 @@
 ### Hey, I'm Amy a Full Stack Developer from Vancouver Island, Canada ✨
 
-- 🔭 I’m currently working on refactoring old projects to use more modern technologies, such as React
+- 🔭 I’m currently working on a portfolio site and a e-commerce application
 - 🌱 I’m currently learning Python
-- 🤔 I’m looking for help with technical interview questions
+- 🤔 I’m looking for help with Amazon Web Services and technical interview questions
 - 😄 Pronouns: she/her
