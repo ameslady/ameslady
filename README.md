@@ -5,5 +5,6 @@
   <li>🤓 I’m currently working on a portfolio site and a e-commerce application</li>
   <li>🌱 I’ve also started to learn Python</li>
   <li>💭 I’m looking for help with Amazon Web Services and technical interview questions</li>
+  <li>🇨🇦 I'm from Vancouver Island, Canada</li>
   <li>🦋 Pronouns: she/her</li>
 </ul>  
