@@ -1,4 +1,4 @@
-<img align="right" style="width:500px" src="/images/githubBanner.png" />
+<img align="right" style="width:475px" src="/images/githubBanner.png" />
 
 <h3>A little about me...</h3>
 <ul>
