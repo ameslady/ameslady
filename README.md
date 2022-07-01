@@ -1,7 +1,7 @@
 <img src="/images/gh-header.png" />
 
 <p align="center">
-<img src="https://img.shields.io/badge/-Javascript-D291BC?logo=javascript&logoColor=white&style=plastic" />
+<img src="https://img.shields.io/badge/-JS-D291BC?logo=javascript&logoColor=white&style=plastic" />
 <img src="https://shields.io/badge/TypeScript-68D1C5?logo=TypeScript&logoColor=FFF&style=plastic" />
 <img src="https://img.shields.io/badge/-React-E09B88?logo=react&logoColor=white&style=plastic" />
 <img src="https://img.shields.io/badge/-Express-8790FF?logo=express&logoColor=white&style=plastic" />
