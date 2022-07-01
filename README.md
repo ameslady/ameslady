@@ -1,5 +1,6 @@
-### Hiya, I'm Amy a Full Stack Developer from Vancouver Island 🇨🇦
-
+<p align="center">
+  <img src="/images/github-banner.png" />
+</p>
 
 ### A little about me...
 - 🤓 I’m currently working on a portfolio site and a e-commerce application
