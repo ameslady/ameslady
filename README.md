@@ -1,4 +1,4 @@
-## Hiya, I'm Amy a Full Stack Developer from Vancouver Island 🇨🇦
+### Hiya, I'm Amy a Full Stack Developer from Vancouver Island 🇨🇦
 
 
 ### A little about me...
