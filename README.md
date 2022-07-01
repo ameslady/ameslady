@@ -7,8 +7,6 @@
 <img src="https://img.shields.io/badge/-Node.js-BA8FDB?logo=nodedotjs&logoColor=white&style=plastic" />
 <img src="https://img.shields.io/badge/-Express.js-8790FF?logo=express&logoColor=white&style=plastic" />
 <img src="https://img.shields.io/badge/-jQuery-68D1C5?logo=jquery&logoColor=white&style=plastic)" />
-<img src="https://img.shields.io/badge/-HTML-D291BC?logo=html5&logoColor=white&style=plastic)" />
-<img src="https://img.shields.io/badge/-CSS-5AC9E7?logo=css3&logoColor=white&style=plastic)" />
 <img src="https://img.shields.io/badge/MUI-8790FF?logo=mui&logoColor=white&style=plastic)" />
 <img src="https://img.shields.io/badge/-PostgreSQL-68D1C5?logo=postgresql&logoColor=white&style=plastic)" />
 <img src="https://img.shields.io/badge/-Jest-E09B88?logo=jest&logoColor=white&style=plastic)" />
