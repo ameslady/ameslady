@@ -1,1 +1,1 @@
-<img src="/images/gh-banner.png" />
+<img src="/images/gh-header.png" />
