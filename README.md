@@ -1,4 +1,4 @@
-<img src="/images/gh-banner.png" />
+<img src="/images/gh-header.png" />
 
 <p align="center">
 <img src="https://img.shields.io/badge/-JS-D291BC?logo=javascript&logoColor=white&style=plastic" />
@@ -17,5 +17,4 @@
 </p>
 
 <!--
-<img src="/images/gh-banner.png" />
 -->
