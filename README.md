@@ -1,4 +1,4 @@
-<img src="/images/gh-banner.png" />
+<img src="/images/github-header.png" />
 
 <p align="center">
 <img src="https://img.shields.io/badge/-JS-D291BC?logo=javascript&logoColor=white&style=plastic" />
