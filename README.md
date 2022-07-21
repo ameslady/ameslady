@@ -17,7 +17,7 @@
 </p>
 
 ### Quick Links
-- [Resume](https://github.com/connkat/resume.pdf)
+- [Resume](https://github.com/connkat/resume.pdf](https://github.com/ameslady/ameslady/blob/main/resume.pdf)
 
 <!--
 -->
