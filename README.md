@@ -1,5 +1,5 @@
 <p align="center" width="100%">
-   <img src="/images/gh-banner.png" />
+   <img width="80%" src="/images/gh-banner.png" />
 </p>
 
 <p align="center">
