@@ -15,9 +15,3 @@
 <img src="https://img.shields.io/badge/-Cypress-BA8FDB?logo=cypress&logoColor=white&style=plastic)" />
 <img src="https://img.shields.io/badge/-Git-D291BC?logo=git&logoColor=white&style=plastic)" />
 </p>
-
-### Quick Links
-- [Resume](resume.pdf)
-
-<!--
--->
