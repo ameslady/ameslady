@@ -1,7 +1,3 @@
-<p align="center" width="100%">
-   <img width="92%" src="/images/banner.png" />
-</p>
-
 <p align="center">
 <img src="https://img.shields.io/badge/-JS-D291BC?logo=javascript&logoColor=white&style=plastic" />
 <img src="https://shields.io/badge/TS-68D1C5?logo=TypeScript&logoColor=FFF&style=plastic" />
